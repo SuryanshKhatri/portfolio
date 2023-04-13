@@ -11,6 +11,10 @@
   --bgOrange: #e84949;
 }
 
+#icon{
+  width: 30px;
+  cursor: pointer;
+}
 #wrapper{
     height:100vh;
     overflow-y:auto;
